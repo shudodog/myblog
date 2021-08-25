@@ -1,8 +1,8 @@
 https://shudodog.github.io/myblog/
 
-### 2021.06
+**2021.06**
 
-****Html, css****
+**Html, css**
 
 ## 예시 사진
 ![image](https://user-images.githubusercontent.com/76150392/130787929-701038d9-2d1f-41c6-9a2b-c9f72bccba15.png)
@@ -13,9 +13,9 @@ https://shudodog.github.io/myblog/
 
 
 ## 설명
-youtube 생활코딩을 보고 복습 겸 나만의 블로그를 만들어 보았다.
+평소 나만의 블로그를 만들어 보고 싶었는데 Github서비스를 이용하면 쉽게 만들수 있다는 것을 유튜브-생활코딩을 통해 알게 되어 블로그를 만들었다.
 
-반응형 웹 블로그
+반응형으로 만들었다.
 
 Github 서비스를 이용하였다.
 
